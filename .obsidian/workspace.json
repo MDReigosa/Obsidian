@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "e12b5b364ff9ce26",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd83b098b48c693b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b5a0c581b23ff19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4584dc60af8c1d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "317f26a9c1b6926c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e071e586eda5c89d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bc9265e1f6c8162",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ba40f2dba09dc49",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "402e7724a9436400",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd57847d5c5c7d1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6624f030d987c0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5964dc9ddd859604",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "caeda360068bdb0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7dea126ab96eb19e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "e071e586eda5c89d",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Neurosurgery/SAH.md",
+    "Viaje CANADA y USA.md",
+    "Gynecology/Examen de Residencia 2023/Generalidades Anato.md",
+    "Passwords.md",
+    "Gynecology/Examen de Residencia 2023",
+    "UM Dementia Course/Alzheimer.md",
+    "Wound management/Pasted image 20220810131447.png",
+    "Vascular/Images/Pasted image 20220829234515.png",
+    "Electrolytes/Hypernatremia.md",
+    "Gynecology/Bartholinitis.md",
+    "Google analytics course.md",
+    "mindhub.md",
+    "Pasted image 20230306134731.png",
+    "Henry prep/comandos.md",
+    "Informatica/Licence Office 2019.canvas",
+    "Henry prep",
+    "Pagos Departamento.md",
+    "Toxicology/Acetaminophen.md",
+    "Aanc 48.md",
+    "Gynecology/Endometriosis.md",
+    "Toxicology/Curso UBA 2022.md",
+    "Toxicology/Pasted image 20221208090633.png"
+  ]
+}

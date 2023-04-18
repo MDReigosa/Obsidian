@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"54b773f55a8cfd02","x":-352,"y":-217,"width":415,"height":216,"color":"2","type":"text","text":"1.  En la ventana de símbolo de sistema ejecuta el comando:  \n    `cd /d %ProgramFiles%\\Microsoft Office\\Office16` para Office de 64 bits o el comando:  \n    `cd /d %ProgramFiles(x86)%\\Microsoft Office\\Office16` para Office de 32 bits."},
+		{"id":"510eb7ecd98c5d65","x":-66,"y":24,"width":460,"height":167,"type":"text","text":"1.  Utiliza este comando para convertir la copia de Office 2019 a una copia de licencia por volumen:  \n    `for /f %x in ('dir /b ..\\root\\Licenses16\\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:\"..\\root\\Licenses16\\%x\"`"},
+		{"id":"04e05d97fe236992","x":-377,"y":235,"width":598,"height":172,"type":"text","text":"Para activar la copia utilizando la clave de Office Profesional Plus utiliza este comando:\ncscript ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP\n\ncscript ospp.vbs /sethst:s8.uk.to  \ncscript ospp.vbs /act"}
+	],
+	"edges":[
+		{"id":"44e0a525df9e66d9","fromNode":"54b773f55a8cfd02","fromSide":"bottom","toNode":"510eb7ecd98c5d65","toSide":"top"},
+		{"id":"e416fd16f117ed66","fromNode":"510eb7ecd98c5d65","fromSide":"bottom","toNode":"04e05d97fe236992","toSide":"top"}
+	]
+}

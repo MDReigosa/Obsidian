@@ -1,0 +1,1 @@
+Diarrea aguda en niños >12 años (A): **dosis** inicial 4 mg, seguido de 2 mg después de cada deposición diarreica. Máximo: 16 mg/día. Diarrea crónica en niños ≥2 años (E: off-label): 0,08-0,24 mg/kg/día dividido en 2-3 veces/día. Máximo: 2 mg/**dosis**

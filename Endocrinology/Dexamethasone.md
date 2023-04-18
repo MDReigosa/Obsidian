@@ -1,0 +1,2 @@
+In thyroid disease
+	Dexamethasone, 2 mg every 6 hours, inhibits the peripheral conversion of T4 to T3 and has wellknown immunosuppressive effects. The inhibitory effect of dexamethasone on the conversion of T4 to T3 is additive to that of PTU.
