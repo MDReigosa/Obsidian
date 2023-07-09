@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "063ab22de36dff4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c681134a1d5df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85049ae0b37d48e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayes model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c3e40548274a17f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f8d4dbbfc88739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4276ed662acf1b96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a43637d9f352fe86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb68813d3d7403bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "971e0eabd5b890e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "34aeffe45fe00ede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb282d9516152e49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bayes model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "011ba849923b1bee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bayes model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fd1b7a84c467471",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d03df741d79dad5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bayes model.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4276ed662acf1b96",
+  "lastOpenFiles": [
+    "Venn diagrams.md",
+    "Turing test.md",
+    "euler diagram.md",
+    "Images/Pasted image 20220924103801.png",
+    "Images/Pasted image 20220924104104.png",
+    "Images/Pasted image 20220924104036.png"
+  ]
+}

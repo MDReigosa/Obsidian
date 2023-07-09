@@ -1,6 +1,12 @@
 {
   "promptDelete": false,
   "livePreview": false,
-  "attachmentFolderPath": "Untitled",
-  "vimMode": false
+  "attachmentFolderPath": "./",
+  "vimMode": false,
+  "spellcheckLanguages": [
+    "en-GB",
+    "es-AR",
+    "ru"
+  ],
+  "newFileLocation": "current"
 }

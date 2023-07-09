@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd83b098b48c693b",
+        "id": "b21427f45ac79765",
         "type": "tabs",
         "children": [
           {
-            "id": "0b5a0c581b23ff19",
+            "id": "018971cbd0c19f37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Colloquial Russian/Cap I.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e6294201ce48148c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "right": {
     "id": "402e7724a9436400",
@@ -81,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Colloquial Russian/Cap I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -92,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Colloquial Russian/Cap I.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,10 +132,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Colloquial Russian/Cap I.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,9 +147,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -141,29 +158,54 @@
   },
   "active": "e071e586eda5c89d",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Neurosurgery/SAH.md",
-    "Viaje CANADA y USA.md",
-    "Gynecology/Examen de Residencia 2023/Generalidades Anato.md",
-    "Passwords.md",
-    "Gynecology/Examen de Residencia 2023",
-    "UM Dementia Course/Alzheimer.md",
-    "Wound management/Pasted image 20220810131447.png",
-    "Vascular/Images/Pasted image 20220829234515.png",
-    "Electrolytes/Hypernatremia.md",
-    "Gynecology/Bartholinitis.md",
-    "Google analytics course.md",
-    "mindhub.md",
-    "Pasted image 20230306134731.png",
-    "Henry prep/comandos.md",
+    "Informatica/Kali persistence.md",
+    "Informatica/Install Kali android.md",
     "Informatica/Licence Office 2019.canvas",
-    "Henry prep",
-    "Pagos Departamento.md",
-    "Toxicology/Acetaminophen.md",
-    "Aanc 48.md",
-    "Gynecology/Endometriosis.md",
-    "Toxicology/Curso UBA 2022.md",
-    "Toxicology/Pasted image 20221208090633.png"
+    "Passwords.md",
+    "Henry prep/comandos.md",
+    "Guardia dosis.md",
+    "T1.md",
+    "Psychosis and dementia.md",
+    "Neumonology/Semiology.md",
+    "Sífilis.md",
+    "Neumonology/Asthma-COPD overlap (ACOS).md",
+    "Neumonology/Asthma.md",
+    "Google analytics course.md",
+    "Examen de Residencia 2023/Gineco/Ca Endometrio.md",
+    "Examen de Residencia 2023/Gineco/CO monoxido de carbono.md",
+    "Examen de Residencia 2023/Pediatria/Vacunas.md",
+    "Examen de Residencia 2023/Pediatria/Desarrollo.md",
+    "Examen de Residencia 2023/Infecciosas/HIV en el adulto Guia.md",
+    "Examen de Residencia 2023/Guia DM2.md",
+    "Examen de Residencia 2023/Pleura.md",
+    "Examen de Residencia 2023/Neumonia.md",
+    "Examen de Residencia 2023/Cardio/Screenshot_20230627-045910-647.png",
+    "Examen de Residencia 2023/Cardio/Estarías.md",
+    "Examen de Residencia 2023/guia para adiccion tabaco.md",
+    "Examen de Residencia 2023/Nefro/IRA y ERC.md",
+    "Examen de Residencia 2023/Nefro/Hematuria.md",
+    "Examen de Residencia 2023/Cardio/Pasted image 20230623021940.png",
+    "Examen de Residencia 2023/Cardio/Pasted image 20230623021658.png",
+    "Examen de Residencia 2023/Cardio/Disnea.md",
+    "Examen de Residencia 2023/Nefro/Sme Nefrotico y Sme Nefritico.md",
+    "Pasted image 20230619205611.png",
+    "Examen de Residencia 2023/Pasted image 20230627042440.png",
+    "Examen de Residencia 2023/Pasted image 20230627042529.png",
+    "Examen de Residencia 2023/Gineco/Pasted image 20230627041459.png",
+    "Examen de Residencia 2023/Gineco/Pasted image 20230627040905.png",
+    "Examen de Residencia 2023/Leyes/Pasted image 20230621152617.png",
+    "Examen de Residencia 2023/Endocrino/Pasted image 20230627003831.png",
+    "desktop.ini",
+    "Examen de Residencia 2023/Uro",
+    "Examen de Residencia 2023/Nefro/Untitled",
+    "Examen de Residencia 2023/Nefro",
+    "Examen de Residencia 2023/Trauma",
+    "Examen de Residencia 2023/Reumaticas",
+    "Examen de Residencia 2023/Salud publica",
+    "Examen de Residencia 2023/Neuro",
+    "Examen de Residencia 2023/Gastro",
+    "Examen de Residencia 2023/Endocrino",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }

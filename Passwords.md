@@ -15,6 +15,14 @@ Bancociudad
 	scarlatti1685
 	Mo1756179
 
+Cuentas extra:
+	mdreigosadata1@gmail.com
+	Data2023.
+
+
+
+API Chatgpt
+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
 
 Transcribeme
 	Transcribe1234
@@ -42,3 +50,12 @@ Cancer2023.
 
 HIBA
 Italien2023.
+
+mercantil andina reclamo usuaria
+mariano.reigosa@usal.edu.ar
+seguroandina
+
+
+Macro
+alvin0510
+python2023

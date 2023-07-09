@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 18,
+  "textFontFamily": "Dubai",
+  "translucency": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Book Antiqua"
 }
